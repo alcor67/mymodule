@@ -1,4 +1,4 @@
-module github.com/alcor67/mymodule/v2
+module github.com/alcor67/mymodule/v3
 
 go 1.17
 
@@ -8,7 +8,6 @@ require (
 )
 
 require (
-	github.com/alcor67/mymodule v1.0.0 // indirect
 	github.com/andybalholm/brotli v1.0.4 // indirect
 	github.com/klauspost/compress v1.14.1 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
