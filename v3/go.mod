@@ -1,4 +1,4 @@
-module github.com/alcor67/mymodule
+module github.com/alcor67/mymodule/v3
 
 go 1.17
 
